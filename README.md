@@ -15,6 +15,6 @@ ensuring transparency and preventing fraud.
 ## Technologies Used
 - Backend: Django (Python)
 - Cryptography: `cryptography` library (RSA signatures)
-- Frontend: HTML, CSS 
+- Frontend: HTML, CSS, Bootstrap
 - Database: SQLite (prototype) 
 - Tools: Git, Django ORM
